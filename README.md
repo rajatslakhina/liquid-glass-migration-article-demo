@@ -3,8 +3,8 @@
 Xcode 27 ignores `UIDesignRequiresCompatibility`. Once Xcode 27 becomes the App Store
 submission baseline (~April 2027), every app gets Liquid Glass — ready or not.
 
-This repo is the companion demo for the article **"Your Liquid Glass Opt-Out Just
-Expired. Here's the Audit I'd Run This Week"** *(link added after publish — see below)*.
+This repo is the companion demo for the article **["Your Liquid Glass Opt-Out Just
+Expired. Here's the Audit I'd Run This Week"](https://medium.com/@er.rajatlakhina/your-liquid-glass-opt-out-just-expired-heres-the-audit-i-d-run-this-week-067c2e4d30e7)**.
 Instead of describing a migration playbook in prose, it encodes one:
 
 - **`ChromeComponent`** — one audited UI surface: what it's made of (`systemStandard`,
@@ -67,7 +67,7 @@ To run the tests headlessly: `swift test` at the repo root.
 
 ## Article
 
-Article: *(added after publish — see below)*
+[Your Liquid Glass Opt-Out Just Expired. Here's the Audit I'd Run This Week](https://medium.com/@er.rajatlakhina/your-liquid-glass-opt-out-just-expired-heres-the-audit-i-d-run-this-week-067c2e4d30e7) — the full migration playbook this repo encodes.
 
 ## License
 
